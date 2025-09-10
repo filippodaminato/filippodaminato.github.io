@@ -1,7 +1,3 @@
-# Filippo Daminato
-
-Benvenuto nel mio sito personale! 🚀  
-
 ## 🎓 Formazione
 - **Laurea Triennale in Fisica** presso la **Facoltà di Scienze Matematiche, Fisiche e Naturali** dell'**Università La Sapienza di Roma**  
 - Tesi di laurea: *"Immagine riflessa di un fascio laser fortemente focalizzato"*
