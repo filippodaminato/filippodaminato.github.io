@@ -1,3 +1,9 @@
 title: "Filippo Daminato"
 description: "Il mio sito personale"
 theme: jekyll-theme-midnight
+# Menu personalizzato
+nav:
+  - title: "Home"
+    url: /
+  - title: "Open Notes"
+    url: /open-notes
